@@ -1,101 +1,101 @@
-﻿"rsq_ocean_code";"rsq_inshore_code";"tsugov";"NAME";"affected_countries"
-"01";"01010";"1";"Caribbean Sea";"CUB,MEX,JAM,GTM,NIC,HND,CRI,PAN,COL,TTO,VEN,GRD,BRB,MTQ,ATG,PRI,HTI,DOM,DMA,CYM,BLZ,ABW,CUW,VCT,LCA,MSR,KNA,VGB,VIR,BLM,KNA"
-"02";"02010";"1";"Gulf of Mexico";"USA,MEX,CUB"
-"03";"03010";"0";"Gulf of Suez";"EGY"
-"03";"03011";"0";"Gulf of Aqaba";"EGY,SAU"
-"03";"03012";"0";"Red Sea";"EGY,SAU,YEM,ERI,DJI"
-"03";"03013";"0";"Gulf of Aden";"DJI,YEM,SOM"
-"03";"03014";"0";"Gulf of Oman";"OMN,IRN"
-"03";"03015";"0";"Persian Gulf";"IRN,ARE,QAT,KWT,IRQ"
-"03";"03016";"0";"Laccadive Sea";"IND,LKA,MDV"
-"03";"03017";"0";"Arabian Sea";"IND,PAK,OMN,MDV,SOM,YEM"
-"03";"03018";"0";"Mozambique Channel";"MDG,MOZ"
-"03";"03019";"1";"Bay of Bengal";"IND,LKA,BGD,IDN"
-"03";"03020";"1";"Andaman or Burma Sea";"MYS, MMR,THA,IND,IND"
-"03";"03021";"1";"Great Australian Bight";"AUS"
-"03";"03022";"1";"Bass Strait";"AUS"
-"03";"03023";"1";"Indian Ocean";"HRD,AUS,IDNCXR,CCK,LKA,IOT,MDV,SOM,KEN,TZA,MDG,SYC,ATF"
-"04";"04010";"0";"Mediterranean Sea - Western Basin";"FRA,ITA,ESP,DZA,TUN"
-"04";"04011";"0";"Mediterranean Sea - Eastern Basin";"ITA,TUN,EGY,TUR,LBY,GRC,LBN,ISR,SYR,CYP"
-"04";"04012";"0";"Sea of Marmara";"TUR"
-"04";"04013";"0";"Black Sea";"RUS,ROU,TUR,UKR,MDA,GEO,BGR"
-"04";"04014";"0";"Sea of Azov";"RUS,UKR"
-"04";"04015";"0";"Strait of Gibraltar";"ESP,GBR,MAR"
-"04";"04016";"0";"Alboran Sea";"ESP,MOR,DZA"
-"04";"04017";"0";"Balearic Sea";"ESP"
-"04";"04018";"0";"Ligurian Sea";"ITA,FRA"
-"04";"04019";"0";"Tyrrhenian Sea";"ITA,FRA"
-"04";"04020";"0";"Adriatic Sea";"ALB,BIH,XXK,MNEHRV,ITA"
-"04";"04021";"0";"Ionian Sea";"ITA,GRC,ALB"
-"04";"04022";"0";"Aegean Sea";"GRC,TUR"
-"05";"05010";"0";"Inner Seas off the West Coast of Scotland";"GBR,IRL"
-"05";"05011";"0";"Irish Sea and St. George's Channel";"GBR,IRL"
-"05";"05012";"0";"Bristol Channel";"GBR"
-"05";"05013";"0";"English Channel";"GBR,FRA"
-"05";"05014";"0";"Bay of Biscay";"FRA"
-"05";"05015";"0";"Celtic Sea";"GBR,IRL,FRA"
-"05";"05016";"0";"Kattegat";"NOR,DNK,SWE,DEU"
-"05";"05017";"0";"Skaggerak";"NOR,SWE"
-"05";"05018";"1";"North Sea";"NOR,DNK,GBR,DEU,NLD,BEL,FRA"
-"05";"05019";"1";"Baffin Bay";"CAN,GRL"
-"05";"05020";"1";"Davis Strait";"CAN,GRL"
-"05";"05021";"1";"Labrador Sea";"CAN,GRL"
-"05";"05022";"1";"Gulf of St-Lawrence";"CAN"
-"05";"05023";"1";"Bay of Fundy";"CAN,USA"
-"05";"05024";"1";"North Atlantic Ocean";"PRT,ESP,FRA,IRL,GBR,FRO,ISL,GRL,CAN,USA,BHS,CUB,HTI,DOM,DMA,TCA,PRI,VGB,VIR,BLM,KNA,MSR,MTQ,LCA,VCT,BRB,VEN,GUY,SUR,GUF,BRA,GAB,GNQ,CMR,NGA,BEN,TGO,GHA,CIV,LBR,SLE.GIN,GNB,SEN,MRT,MAR,CPV"
-"05";"05025";"1";"Gulf of Guinea";"GAB,GNQ,CMR,NGA,BEN,TGO,GHA,CIV"
-"05";"05026";"0";"Gulf of Bothnia";"SWE,FIN"
-"05";"05027";"0";"Gulf of Finland";"FIN,EST,RUS"
-"05";"05028";"0";"Gulf of Riga";"EST,LVA"
-"05";"05029";"0";"Baltic Sea";"SWE,DNK,DEU,POL,RUS,LTU,LVA,EST,FIN"
-"06";"06010";"1";"Rio de La Plata";"ARG,URY"
-"06";"06011";"1";"South Atlantic Ocean";"BRA,URY,ARG,FLK,SGS,ZAF,NAM,AGO,COD,SHN,STP"
-"07";"07010";"1";"Greenland Sea";"GRL,NOR,ISL,SJM"
-"07";"07011";"1";"Norwegian Sea";"GRL,NOR,ISL,SJM"
-"07";"07012";"0";"White Sea";"RUS"
-"07";"07013";"0";"Barentsz Sea";"RUS,NOR,SWE,SJM,FIN"
-"07";"07014";"0";"Kara Sea";"RUS"
-"07";"07015";"0";"Laptev Sea";"RUS"
-"07";"07016";"0";"East Siberian Sea";"RUS"
-"07";"07017";"0";"Chukchi Sea";"RUS,USA"
-"07";"07018";"1";"Lincoln Sea";"CAN,GRL"
-"07";"07019";"1";"Beaufort Sea";"USA,CAN"
-"07";"07020";"1";"Northwestern Passages";"CAN"
-"07";"07021";"1";"Hudson Bay";"CAN"
-"07";"07022";"1";"Hudson Strait";"CAN"
-"08";"08010";"1";"Malacca Strait";"THA,IDN,MYS"
-"08";"08011";"1";"Singapore Strait";"SGP,MYS"
-"08";"08012";"1";"Gulf of Thailand";"THA, KHM"
-"08";"08013";"1";"South China Sea";"CHN,VNM,MYS,IDN,THA,PHL,TWN"
-"08";"08014";"1";"Eastern China Sea";"CHN,TWN,JPA"
-"08";"08015";"1";"Yellow Sea";"CHN,KOR,PRK"
-"08";"08016";"0";"Inland Sea";"JPN"
-"08";"08017";"1";"Philippine Sea";"JPN,PHL,TWN,MNP"
-"08";"08018";"1";"Japan Sea";"JPN,KOR,PRK,RUS"
-"08";"08019";"1";"Sea of Okhotsk";"RUS,JPN"
-"08";"08020";"1";"Bering Sea";"RUS,USA"
-"08";"08021";"1";"Gulf of Alaska";"USA,RUS"
-"08";"08022";"1";"The Coastal Waters of Southeast Alaska and British Columbia";"CAN,USA"
-"08";"08023";"1";"Gulf of California";"USA,MEX"
-"08";"08024";"1";"North Pacific Ocean";"PAN,CRI,NIC,HND,GTM,MEX,USA,CAN,RUS,JPN,FSM,MHL,NRU,PHL,PLW,KIR"
-"08";"08025";"1";"Sulu Sea";"MYS,PHL"
-"08";"08026";"1";"Celebes Sea";"IND,PHL"
-"08";"08027";"1";"Molukka Sea";"IDN"
-"08";"08028";"1";"Gulf of Tomini";"IDN"
-"08";"08029";"1";"Halamahera Sea";"IDN"
-"09";"09010";"1";"Tasman Sea";"AUS,NZL"
-"09";"09011";"1";"Coral Sea";"AUS,NCL,VUT,SLB"
-"09";"09012";"1";"Bismarck Sea";"PNG"
-"09";"09013";"1";"Solomon Sea";"PNG,SOL"
-"09";"09014";"1";"South Pacific Ocean";"AUS,NZL,NFK,FJI,TUV,NRU,VUT,SLB,PNG,IDN,ARG,CHL,PER,PYF,COK,ASM,NIU,WLF,TKL,KIR"
-"09";"09015";"1";"Ceram Sea";"IDN"
-"09";"09016";"1";"Banda Sea";"IDN"
-"09";"09017";"1";"Arafura Sea";"IDN,AUS"
-"09";"09018";"1";"Timor Sea";"IDN,AUS"
-"09";"09019";"1";"Flores Sea";"IDN"
-"09";"09020";"1";"Gulf of Boni";"IDN"
-"09";"09021";"1";"Bali Sea";"IDN"
-"09";"09022";"1";"Makassar Strait";"IDN"
-"09";"09023";"1";"Java Sea";"MYS,IDN"
-"09";"09024";"1";"Savu Sea";"IND"
-"10";"10010";"1";"Southern Ocean";"ATA"
+﻿id;NAME;affected_countries
+1;Caribbean Sea;CUB,MEX,JAM,GTM,NIC,HND,CRI,PAN,COL,TTO,VEN,GRD,BRB,MTQ,ATG,PRI,HTI,DOM,DMA,CYM,BLZ,ABW,CUW,VCT,LCA,MSR,KNA,VGB,VIR,BLM,KNA
+2;Gulf of Mexico;USA,MEX,CUB
+3;Gulf of Suez;EGY
+4;Gulf of Aqaba;EGY,SAU
+5;Red Sea;EGY,SAU,YEM,ERI,DJI
+6;Gulf of Aden;DJI,YEM,SOM
+7;Gulf of Oman;OMN,IRN
+8;Persian Gulf;IRN,ARE,QAT,KWT,IRQ
+9;Laccadive Sea;IND,LKA,MDV
+10;Arabian Sea;IND,PAK,OMN,MDV,SOM,YEM
+11;Mozambique Channel;MDG,MOZ
+12;Bay of Bengal;IND,LKA,BGD,IDN
+13;Andaman or Burma Sea;MYS, MMR,THA,IND,IND
+14;Great Australian Bight;AUS
+15;Bass Strait;AUS
+16;Indian Ocean;HRD,AUS,IDNCXR,CCK,LKA,IOT,MDV,SOM,KEN,TZA,MDG,SYC,ATF
+17;Mediterranean Sea - Western Basin;FRA,ITA,ESP,DZA,TUN
+18;Mediterranean Sea - Eastern Basin;ITA,TUN,EGY,TUR,LBY,GRC,LBN,ISR,SYR,CYP
+19;Sea of Marmara;TUR
+20;Black Sea;RUS,ROU,TUR,UKR,MDA,GEO,BGR
+21;Sea of Azov;RUS,UKR
+22;Strait of Gibraltar;ESP,GBR,MAR
+23;Alboran Sea;ESP,MOR,DZA
+24;Balearic Sea;ESP
+25;Ligurian Sea;ITA,FRA
+26;Tyrrhenian Sea;ITA,FRA
+27;Adriatic Sea;ALB,BIH,XXK,MNEHRV,ITA
+28;Ionian Sea;ITA,GRC,ALB
+29;Aegean Sea;GRC,TUR
+30;Inner Seas off the West Coast of Scotland;GBR,IRL
+31;Irish Sea and St. George's Channel;GBR,IRL
+32;Bristol Channel;GBR
+33;English Channel;GBR,FRA
+34;Bay of Biscay;FRA
+35;Celtic Sea;GBR,IRL,FRA
+36;Kattegat;NOR,DNK,SWE,DEU
+37;Skaggerak;NOR,SWE
+38;North Sea;NOR,DNK,GBR,DEU,NLD,BEL,FRA
+39;Baffin Bay;CAN,GRL
+40;Davis Strait;CAN,GRL
+41;Labrador Sea;CAN,GRL
+42;Gulf of St-Lawrence;CAN
+43;Bay of Fundy;CAN,USA
+44;North Atlantic Ocean;PRT,ESP,FRA,IRL,GBR,FRO,ISL,GRL,CAN,USA,BHS,CUB,HTI,DOM,DMA,TCA,PRI,VGB,VIR,BLM,KNA,MSR,MTQ,LCA,VCT,BRB,VEN,GUY,SUR,GUF,BRA,GAB,GNQ,CMR,NGA,BEN,TGO,GHA,CIV,LBR,SLE.GIN,GNB,SEN,MRT,MAR,CPV
+45;Gulf of Guinea;GAB,GNQ,CMR,NGA,BEN,TGO,GHA,CIV
+46;Gulf of Bothnia;SWE,FIN
+47;Gulf of Finland;FIN,EST,RUS
+48;Gulf of Riga;EST,LVA
+49;Baltic Sea;SWE,DNK,DEU,POL,RUS,LTU,LVA,EST,FIN
+50;Rio de La Plata;ARG,URY
+51;South Atlantic Ocean;BRA,URY,ARG,FLK,SGS,ZAF,NAM,AGO,COD,SHN,STP
+52;Greenland Sea;GRL,NOR,ISL,SJM
+53;Norwegian Sea;GRL,NOR,ISL,SJM
+54;White Sea;RUS
+55;Barentsz Sea;RUS,NOR,SWE,SJM,FIN
+56;Kara Sea;RUS
+57;Laptev Sea;RUS
+58;East Siberian Sea;RUS
+59;Chukchi Sea;RUS,USA
+60;Lincoln Sea;CAN,GRL
+61;Beaufort Sea;USA,CAN
+62;Northwestern Passages;CAN
+63;Hudson Bay;CAN
+64;Hudson Strait;CAN
+65;Malacca Strait;THA,IDN,MYS
+66;Singapore Strait;SGP,MYS
+67;Gulf of Thailand;THA, KHM
+68;South China Sea;CHN,VNM,MYS,IDN,THA,PHL,TWN
+69;Eastern China Sea;CHN,TWN,JPA
+70;Yellow Sea;CHN,KOR,PRK
+71;Inland Sea;JPN
+72;Philippine Sea;JPN,PHL,TWN,MNP
+73;Japan Sea;JPN,KOR,PRK,RUS
+74;Sea of Okhotsk;RUS,JPN
+75;Bering Sea;RUS,USA
+76;Gulf of Alaska;USA,RUS
+77;The Coastal Waters of Southeast Alaska and British Columbia;CAN,USA
+78;Gulf of California;USA,MEX
+79;North Pacific Ocean;PAN,CRI,NIC,HND,GTM,MEX,USA,CAN,RUS,JPN,FSM,MHL,NRU,PHL,PLW,KIR
+80;Sulu Sea;MYS,PHL
+81;Celebes Sea;IND,PHL
+82;Molukka Sea;IDN
+83;Gulf of Tomini;IDN
+84;Halamahera Sea;IDN
+85;Tasman Sea;AUS,NZL
+86;Coral Sea;AUS,NCL,VUT,SLB
+87;Bismarck Sea;PNG
+88;Solomon Sea;PNG,SOL
+89;South Pacific Ocean;AUS,NZL,NFK,FJI,TUV,NRU,VUT,SLB,PNG,IDN,ARG,CHL,PER,PYF,COK,ASM,NIU,WLF,TKL,KIR
+90;Ceram Sea;IDN
+91;Banda Sea;IDN
+92;Arafura Sea;IDN,AUS
+93;Timor Sea;IDN,AUS
+94;Flores Sea;IDN
+95;Gulf of Boni;IDN
+96;Bali Sea;IDN
+97;Makassar Strait;IDN
+98;Java Sea;MYS,IDN
+99;Savu Sea;IND
+100;Southern Ocean;ATA
